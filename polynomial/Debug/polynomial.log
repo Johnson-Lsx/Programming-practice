@@ -1,0 +1,10 @@
+﻿  polynomial.cpp
+E:\VS项目\polynomial\polynomial.cpp(53,14): warning C4018:  “<”: 有符号/无符号不匹配
+E:\VS项目\polynomial\polynomial.cpp(62,21): warning C4018:  “<”: 有符号/无符号不匹配
+E:\VS项目\polynomial\polynomial.cpp(106,14): warning C4018:  “<”: 有符号/无符号不匹配
+E:\VS项目\polynomial\polynomial.cpp(115,21): warning C4018:  “<”: 有符号/无符号不匹配
+E:\VS项目\polynomial\polynomial.cpp(355,27): warning C4018:  “<”: 有符号/无符号不匹配
+E:\VS项目\polynomial\polynomial.cpp(362,28): warning C4018:  “<”: 有符号/无符号不匹配
+E:\VS项目\polynomial\polynomial.cpp(370,28): warning C4018:  “<”: 有符号/无符号不匹配
+E:\VS项目\polynomial\polynomial.cpp(381,34): warning C4018:  “<”: 有符号/无符号不匹配
+  polynomial.vcxproj -> E:\VS项目\polynomial\Debug\polynomial.exe
