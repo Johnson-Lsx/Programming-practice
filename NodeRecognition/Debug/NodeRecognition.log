@@ -1,0 +1,17 @@
+﻿  NodeRecognition.cpp
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(82,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(142,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(148,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(159,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(170,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(180,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(195,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(209,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(222,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(241,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(255,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(269,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(338,16): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(340,17): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS项目\NodeRecognition\NodeRecognition.cpp(364,20): warning C4018: “<”: 有符号/无符号不匹配
+  NodeRecognition.vcxproj -> E:\VS项目\NodeRecognition\Debug\NodeRecognition.exe
