@@ -1,0 +1,20 @@
+Whether 60 or 16, there is in every human being heart the lure of wonders, the unfailing appetite for what next and the joy of the game of living. In the center of your heart and my heart, there is a wireless station; so long as it receives messages of beauty, hope, courage and power from man and from the infinite, so long as you are young.When your aerials are down, and your spirit is covered with snows of cynicism and the ice of pessimism, then you have grown old, even at 20; but as long as your aerials are up, to catch waves of optimism, there is hope you may die young at 80. is , as.
+aerials power
+
+The website will continue to stay up for the next few weeks, hopefully longer for archival purposes if we can make it happen. s-Linux Journal, LLC.
+LLC it will s-Linux
+
+
+Make sure that your operating system is up to date with the latest-and-greatest package versions:Install the following packages (currently using Debian, but the same should and will apply to Ubuntu)
+install latest-and-greatest
+
+Sometimes I have thought it would be an excellent rule to live each day as if we should die tomorrow. Such an attitude would emphasize sharply the values of life. We should live each day with gentleness, vigor and a keenness of appreciation which are often lost when time stretches before us in the constant panorama of more days and months and years to come. There are those, of course, who would adopt the Epicurean motto of "Eat, drink, and be merry". But most people would be chastened by the certainty of impending death.
+days day lIve
+
+i am a computer-3 Computer_3 /0 \0\0
+0 computer-3
+
+Another unique feature of array containers is that they can be treated as tuple objects: The <array> header overloads the get function to access the elements of the array as if it was a tuple, as well as specialized tuple_size type and tuple_element type.
+array tuple_element tuple
+
+(temp[0] > 'z' || temp[0] < 'a') && (temp[0] > 'Z' || temp[0] < 'A') && (temp[0] < '0' || temp[0] > '9')
