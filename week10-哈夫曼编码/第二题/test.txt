@@ -1,0 +1,13 @@
+am go is go Are Am Is Are Am go is ARE go go go go go go go
+
+How tragic that most people had to get ill before they understood what a gift it was to be alive
+
+Pangolin uses malloc()d DRAM to construct micro-buffers. The required DRAM space is proportional to ongoing transaction sizes. Table summarized the transaction sizes for the evaluated key-value store data structures. Pangolin automatically recycles them on transaction commits.
+
+Figure measures Pangolin scalability by randomly overwriting existing NVMM objects and varying the object sizes
+
+am go hello
+
+1 struct node *n = pgl_open(node_oid);
+2 n->val = value;
+3 pgl_commit(pool , n);

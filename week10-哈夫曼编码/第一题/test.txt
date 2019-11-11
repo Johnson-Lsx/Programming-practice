@@ -1,0 +1,13 @@
+#include<iostream.h> #include<stdio.h> #define size 11 typedef char ET; typedef struct bitree { ET data; struct bitree*lchild; struct bitree*rchild; }tree,*Bitree; void Init(Bitree&B) { B=new bitree; B->lchild=NULL; B->rchild=NULL; } void create(Bitree&B) { ET ch; if((ch=getchar())==#) B=NULL; else { for(int i=0;i<size;i++) { B->data=ch; create(B->lchild); create(B->rchild); } } } void pretraverse(Bitree&B) { if(B!=NULL) { cout<<B->data<<"aZ"; pretraverse(B->lchild); pretraverse(B->rchild); } } int main() { Bitree B; cout<<"cc"<<endl; Init(B); create(B); cout<<"aa"<<endl; pretraverse(B); }
+
+am go hello
+
+rest_init(){pid = kernel_thread(kthreadd, NULL, CLONE_FS | CLONE_FILES);kthreadd_task = find_task_by_pid(pid);}
+
+When the hardware detects an uncorrectable error, the Linux kernel marks the region surrounding the failed load as "poisoned," and future loads from the region will fail with a bus error. Pangolin assumes an error poisons a 4 KB page since Linux currently manages memory failures at page granularity. 
+
+Pangolin handles recovery from a crash using its redo logs. It must also protect against the possibility that the crash occurred during a parity update
+
+1 struct node *n = pgl_open(node_oid);
+2 n->val = value;
+3 pgl_commit(pool , n);
