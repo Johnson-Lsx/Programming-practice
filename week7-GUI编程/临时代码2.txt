@@ -1,0 +1,67 @@
+Simple_window win(Point(100, 100), 1000, 800, "righttriangle");
+	Binary_tree b(4);
+	b.draw();
+	b.drawNode(0,win.x_max(), 0, 4);
+	vector<Point> tmp = b.ret();
+	Vector_ref<Circle> cs;
+	for (int i = 0; i < tmp.size(); ++i)
+	{
+		cout << tmp[i].x << " " << tmp[i].y << endl;
+		Circle temp(tmp[i], 15);
+		cs.push_back(temp);
+	}
+	for (int i = 0; i < tmp.size(); ++i)
+	{
+		Circle temp(tmp[i], 5);
+		temp.set_color(Color(1));
+		temp.draw_lines();
+		win.attach(temp);
+		win.wait_for_button();
+	}
+	
+	/*for (int i = 0; i < cs.size(); ++i)
+	{
+		cs[i].draw_lines();
+		cs[i].set_color(Color(1));
+		win.attach(cs[i]);
+		win.wait_for_button();
+	}*/
+	win.attach(cs[1]);
+	win.wait_for_button();
+	win.attach(cs[2]);
+	win.attach(cs[3]);
+	win.attach(cs[4]);
+	win.attach(cs[5]);
+	win.attach(cs[6]);
+	win.attach(cs[7]);
+	win.wait_for_button();
+	return 0;
+
+
+
+Simple_window win(Point(100, 100), 1000, 800, "righttriangle");
+	Circle c1(Point(100 * 1, 100 * 1), 10);
+	Circle c2(Point(100 * 2, 100 * 2), 10);
+	Circle c3(Point(100 * 3, 100 * 3), 10);
+	Circle c4(Point(100 * 4, 100 * 4), 10);
+	/*for (int i = 0; i < 4; ++i)
+	{
+		Circle c(Point(100 * i, 100 * i), 10);
+		c.set_color(Color(1));
+		c.draw_lines();
+		win.attach(c);
+		win.wait_for_button();
+	}*/
+	c1.set_color(Color(1));
+	c1.draw_lines();
+	win.attach(c1);
+	c2.set_color(Color(1));
+	c2.draw_lines();
+	win.attach(c2);
+	c3.set_color(Color(1));
+	c3.draw_lines();
+	win.attach(c3);
+	c4.set_color(Color(1));
+	c4.draw_lines();
+	win.attach(c4);
+	win.wait_for_button();
